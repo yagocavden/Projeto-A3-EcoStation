@@ -56,3 +56,5 @@ Nesta pasta deverão ser armazenados os protótipos, capturas de tela, modelos d
 
 Os protótipos representam uma etapa importante do Smart Reciclagem, pois permitem visualizar a solução proposta, avaliar a experiência dos usuários e identificar melhorias antes da implementação das funcionalidades.
 
+Protótipo Software https://colab.research.google.com/drive/1OknIKgPQvTujuky4Za3exLFrx0vjH9AY?usp=sharing
+
