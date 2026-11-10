@@ -1,4 +1,4 @@
-# ♻️ Smart Reciclagem
+# ♻️ Smart Reciclagem - EcoStation IA
 
 ## Sobre o Projeto
 
