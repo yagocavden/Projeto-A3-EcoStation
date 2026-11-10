@@ -56,3 +56,4 @@ A arquitetura prevê a comunicação entre os dispositivos físicos e o ambiente
 
 A arquitetura do Smart Reciclagem busca proporcionar uma estrutura organizada, integrada e expansível, permitindo que os diferentes componentes trabalhem em conjunto para melhorar a eficiência da coleta seletiva.
 
+BackLog https://trello.com/b/bpYfPPES
