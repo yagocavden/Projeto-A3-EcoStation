@@ -32,5 +32,5 @@ O Smart Reciclagem é um projeto que utiliza inteligência artificial e sensores
 
 ## Links
 
-- **Protótipo Figma:** 
+- **Protótipo** https://colab.research.google.com/drive/1OknIKgPQvTujuky4Za3exLFrx0vjH9AY?usp=sharing
 - **MVP:** Em andamento
